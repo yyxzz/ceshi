@@ -1,4 +1,1 @@
-key fingeprint: ssh-rsa 2048 ff:17:5a:1e:17:ad:fa:51:c5:c4:13:36:ad:85:d9:33
-
-
-key comment: rsa-key-20141223
+aaa
